@@ -1,0 +1,25 @@
+Title: Natascha Lifka
+
+----
+
+Name: Natascha Lifka
+
+----
+
+Externallinks:
+
+- 
+  buttontext: Filmmakers
+  buttonlink: https://filmmakers.de/natascha-lifka
+- 
+  buttontext: Schauspielervideos
+  buttonlink: >
+    https://www.schauspielervideos.de/fullprofile/schauspielerin-natascha-lifka.html
+- 
+  buttontext: Castforward
+  buttonlink: >
+    https://www.castforward.de/members/profile/natascha-lifka
+
+----
+
+Vita: 

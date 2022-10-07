@@ -1,0 +1,10 @@
+title: Gallery image
+
+fields:
+  alt:
+    type: text
+    width: 1/2
+  photographer:
+    type: text
+    width: 1/2
+  

@@ -1,0 +1,62 @@
+title: News
+
+
+sections:
+  image:
+    required: true
+    type: files
+    layout: cards
+    size: medium
+    min: 1
+    max: 1
+    image:
+      ratio: 4/3
+      cover: true
+
+  newsinfo:
+    type: fields
+    fields:
+      newstitle:
+        required: true
+        type: text
+        label: Newstitel
+      sector:
+        required: true
+        label: Tätigkeit
+        type: select
+        options:
+          - Film
+          - Fernsehen
+          - Theater
+          - sonstiges
+      name:
+        required: true
+        type: text
+      category:
+        required: true
+        type: select
+        label: Kategorie
+        options:
+          actresses: Schauspielerinnen
+          actors: Schauspieler
+          offsprings: Nachwuchs
+          camera: Kamera
+          book: Buch
+          speech: Sprache
+      text:
+        type: textarea
+      link:
+        required: true
+        width: 1/2
+        label: Weitere Infos
+        type: url
+      button:
+        width: 1/2
+        required: true
+        label: Link zur Vita
+        type: link
+        image:
+          cover: true
+        linkTypes:
+          - page
+

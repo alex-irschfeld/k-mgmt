@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+// Font size
+$fs-base:	    10px;
+$fs-h1-h2-h3: 2.4rem;
+$fs-h4: 	    1.2rem;
+$fs-p: 		    1.6rem;
+$fs-li: 	    1.2rem;
+
+// Letter spacing
+$ls-h4: calc($fs-h4 * .05);
+
+*
+{
+	font-family: 'IBM Plex Sans', sans-serif;
+	-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+  color: black;
+  text-decoration: none;
+}
+
+html,
+body
+{
+	font-size: $fs-base;
+}
+
+h1,
+h2,
+h3
+{
+	font-size: $fs-h1-h2-h3;
+}
+
+h3
+{
+	font-weight: 700;
+	letter-spacing: .1rem;
+	text-transform: uppercase;
+}
+
+h4
+{
+	font-size: $fs-h4;
+	text-transform: uppercase;
+	letter-spacing: $ls-h4;
+}
+
+.bold
+{
+	font-weight: 700;
+}
+
+ul
+{
+	li
+	{
+		font-size: $fs-li;
+	}
+}
+
+.vita ul li
+{
+	font-size: $fs-p;
+}
+
+p
+{
+	font-size: $fs-p;
+}
+
+@media (max-width: 820px)
+{
+	$fs-h1-h2-h3: 2rem;
+
+	h1,
+	h2,
+	h3
+	{
+		font-size: $fs-h1-h2-h3;
+	}
+}

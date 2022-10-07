@@ -1,0 +1,36 @@
+Title: Natascha Lifka 'Laim und das Hasenherz'
+
+----
+
+Newstitle: Natascha Lifka 'Laim und das Hasenherz' am 29.08.22 im ZDF
+
+----
+
+Sector: Film
+
+----
+
+Name: Natascha Lifka
+
+----
+
+Category: actresses
+
+----
+
+Text: Am 29.08.22 um 20:15h im ZDF 'Laim und das Hasenherz', Natascha wird erneut in der Rolle der Pathologin zu sehen sein, Regie führte Michael Schneider.
+
+----
+
+Link: https://www.zdf.de/serien/laim-und/laim-und-das-hasenherz-100.html
+
+----
+
+Button:
+
+type: page
+value: actresses/natascha-lifka
+
+----
+
+Clientid: krueger-annika

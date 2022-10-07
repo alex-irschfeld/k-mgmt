@@ -1,0 +1,12 @@
+section.clients
+{
+	padding-top: calc($nav-height + ($space-normal * .5));
+}
+
+@media (max-width: 820px)
+{
+	section.clients
+	{
+		padding-top: calc($nav-height + ($space-normal * .2));
+	}	
+}

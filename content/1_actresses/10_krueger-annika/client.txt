@@ -1,0 +1,113 @@
+Title: Annika Krüger
+
+----
+
+Name: Annika Krüger
+
+----
+
+Externallinks:
+
+- 
+  buttontext: Filmmakers
+  buttonlink: https://filmmakers.de/annika-krueger
+- 
+  buttontext: Schauspielervideos
+  buttonlink: >
+    https://www.schauspielervideos.de/fullprofile/schauspielerin-annika-krueger.html
+- 
+  buttontext: Castforward
+  buttonlink: >
+    https://www.castforward.de/members/profile/annika-kruger
+
+----
+
+Schauspielervideos: 
+
+----
+
+Castforward: 
+
+----
+
+Vita:
+
+- 
+  headline: Person
+  entries:
+    - 
+      key: Geburtsjahr
+      value: '<ul><li>1992</li></ul>'
+    - 
+      key: Geburtsort
+      value: '<ul><li>Hamburg</li></ul>'
+    - 
+      key: Wohnort
+      value: '<ul><li>Hamburg</li></ul>'
+    - 
+      key: Nationalität
+      value: '<ul><li>D</li></ul>'
+    - 
+      key: Größe
+      value: '<ul><li>164cm</li></ul>'
+    - 
+      key: Haarfarbe
+      value: '<ul><li>braun/brünett</li></ul>'
+    - 
+      key: Augenfarbe
+      value: '<ul><li>grün-braun</li></ul>'
+    - 
+      key: Sprachen
+      value: '<ul><li>Englisch (1), Französisch (2)</li></ul>'
+    - 
+      key: Dialekte
+      value: '<ul><li>hamburgisch</li></ul>'
+- 
+  headline: Nominierungen / Auszeichnungen
+  entries:
+    - 
+      key: "2022"
+      value: '<ul><li>Zitterinchen (ARD) nominiert beim Deutschen Kinder Medien Festival Goldener Spatz</li></ul>'
+- 
+  headline: Ausbildung
+  entries:
+    - 
+      key: "2021"
+      value: '<ul><li>Rollen- und Schauspielcoaching bei Sebastian Dunkelberg</li></ul>'
+    - 
+      key: 2015–2018
+      value: '<ul><li>Schule für Schauspiel Hamburg</li></ul>'
+    - 
+      key: "2017"
+      value: '<ul><li>Sourcetuning Workshop bei Jens Roth</li></ul>'
+- 
+  headline: Auszeichnungen
+  entries:
+    - 
+      key: "2018"
+      value: '<ul><li>Siegel des Verbandes deutschsprachiger privater Schauspielschulen</li></ul>'
+- 
+  headline: Film / Fernsehen
+  entries:
+    - 
+      key: "2021"
+      value: '<ul><li><strong>Zitterinchen </strong>- ARD, Märchenfilm (historisch) - Regie: Luise Brinkmann</li></ul>'
+- 
+  headline: Theater
+  entries:
+    - 
+      key: 2020–2021
+      value: '<ul><li><strong>Champagner zum Frühstück</strong> - Rolle: Sophie Stratmann - Regie: Milena Paulovics - Ohnsorg Theater Hamburg</li></ul>'
+    - 
+      key: "2020"
+      value: '<ul><li><strong>SMS für Dich</strong> - Rolle: Katja - Regie: Uli Sandau - Theater Partout Lübeck</li></ul>'
+    - 
+      key: "2019"
+      value: '<ul><li><strong>Der Zauberer von Oz</strong> - Rollen: diverse - Regie: Ayla Yeginer - Ohnsorg Theater Hamburg</li></ul>'
+    - 
+      key: "2018"
+      value: '<ul><li><strong>Auerhaus</strong> - Rolle: Pauline - Regie: Maurizio Micksch - Schlosstheater Celle</li></ul>'
+
+----
+
+Filmmakers: 

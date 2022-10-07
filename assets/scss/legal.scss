@@ -1,0 +1,16 @@
+section#legal
+{
+	min-height: 100vh;
+	border-bottom: none;
+}
+
+section#legal .left
+{
+	padding: $space-normal $space-double $space-double $space-double;
+}
+
+section#legal .left,
+section#legal .right
+{
+	background-color: white;
+}

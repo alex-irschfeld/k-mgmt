@@ -1,0 +1,13 @@
+Title: Knudsen.Management
+----
+Owner: Kerstin Knudsen
+----
+Street: Harkortstraße 95
+----
+Postalcode: 22765
+----
+City: Hamburg
+----
+Phone: +49 (0)40.53 30 7000
+----
+Email: info [at] knudsen-management.de

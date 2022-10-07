@@ -1,0 +1,32 @@
+Title: Robin Oktober 22
+
+----
+
+Newstitle: Heidelberg
+
+----
+
+Sector: Fernsehen
+
+----
+
+Name: Name
+
+----
+
+Category: actresses
+
+----
+
+Text: Text
+
+----
+
+Link: https://alexirschfeld.de/
+
+----
+
+Button:
+
+type: page
+value: actors

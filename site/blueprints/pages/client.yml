@@ -1,0 +1,55 @@
+title: Klient
+
+sections:
+  name:
+    type: fields
+    fields:
+      name:
+        label: Name
+        type: text
+
+  buttons:
+    type: fields
+    fields:
+      externallinks:
+        label: Externe Links
+        type: structure
+        fields:
+          buttontext:
+            label: Buttontext
+            type: text
+          buttonlink:
+            label: Links
+            type: url
+
+  gallery:
+    headline: Galerie
+    type: files
+    min: 1
+    info: "© {{ file.photographer }}"
+    layout: cards
+    template: gallery-image
+    image:
+      ratio: 3/4
+      cover: true
+
+  vita:
+    type: fields
+    fields:
+      vita:
+        label: Vita
+        type: structure
+        fields:
+          headline:
+            label: Kategorie
+            type: text
+          entries:
+            label: Einträge
+            type: structure
+            fields:
+              key:
+                label: Key
+                type: text
+              value:
+                label: Daten
+                type: list

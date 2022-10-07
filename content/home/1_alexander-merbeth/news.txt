@@ -1,0 +1,32 @@
+Title: Alexander Merbeth
+
+----
+
+Newstitle: Alexander Merbeth dreht 'Intimate' (Joyn/Pro Sieben) im September in Hamburg
+
+----
+
+Sector: Fernsehen
+
+----
+
+Name: Alexander Merbeth
+
+----
+
+Category: actors
+
+----
+
+Text: Für die neue Staffel 'Intimate' (Joyn/Pro Sieben) steht Alex im Septmeber in Hamburg vor der Kamera, Regie führt Emil Belton.
+
+----
+
+Link: https://www.alexirschfeld.de
+
+----
+
+Button:
+
+type: page
+value: actors/alexander-merbeth

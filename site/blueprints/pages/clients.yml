@@ -1,0 +1,17 @@
+title: Klienten
+
+sections:
+  category:
+    type: fields
+    fields:
+      category:
+        label: Kategorie
+        type: text
+  clients:
+    headline: "{{ page.category }}"
+    type: pages
+    create: client
+    layout: cards
+    image:
+      ratio: 3/4
+      cover: true
